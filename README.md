@@ -19,4 +19,4 @@ E.g.:<br>
 Full list available: http://developer.android.com/google/play-services/setup.html<br>
 
 But this does currently not work under phonegap build 3.7.0. so use this instead:<br>
-< dependency id="com.google.playservices" url="https://github.com/LogicsSoftware/google-play-services.git" />
+< dependency id="com.google.playservices" url="https://github.com/LogicsSoftware/google-play-services.git" commit="v24"/>
