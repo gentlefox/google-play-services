@@ -5,6 +5,7 @@ through the Android SDK Manager.<br>
 
 How to update to latest Google Play Services:<br>
 1. Replace the  libs/google-play-services_lib directory with the latest downloaded Google Play Service by the Android SDK from your local downloaded directory.<br>
+normally under Android>extras>google>google_play_services>libproject<br>
 2. Find version number of latest downloaded Google Play Service directory under:<br>
     google-play-services_lib>res>values>version.xml<br>
 3. Copy this number to version.xml of this plugin.<br>
