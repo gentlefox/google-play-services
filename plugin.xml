@@ -6,21 +6,17 @@
 -->
 <plugin xmlns="http://cordova.apache.org/ns/plugins/1.0"
     id="com.google.playservices"
-    version="24.0.0">
+    version="28.0.0">
   <engines>
     <engine name="cordova" version=">=3.0.0" />
   </engines>
 
   <name>Google Play Services for Android</name>
-  <info>PLUGIN IS DEPRECATED: com.google.playservices
+  <info>ORIGINAL PLUGIN IS DEPRECATED: com.google.playservices
 
-Plugins should use framework tags instead.
+    Full list available: http://developer.android.com/google/play-services/setup.html
 
-E.g.:
-    &lt;framework src="com.google.android.gms:play-services-plus:+" /&gt;
-    &lt;framework src="com.google.android.gms:play-services-identity:+" />&gt;
-
-Full list available: http://developer.android.com/google/play-services/setup.html
+    Just another copy-n-paste-n-patch of this library.
   </info>
 
   <platform name="android">
